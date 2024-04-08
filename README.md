@@ -1,4 +1,4 @@
-# nlp_final_project
+# NLP Final Project - LLM Text Classification
 
 ## Poem classification with BERT, AlBERT, and RoBERTa
 
